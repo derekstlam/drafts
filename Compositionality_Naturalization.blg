@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Compositionality_Naturalization.aux
+The style file: plain.bst
+Database file #1: Compositionality_Naturalization.bib
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            540 strings with 4899 characters,
+and the built_in function-call counts, 1958 in all, are:
+= -- 188
+> -- 56
+< -- 1
++ -- 25
+- -- 16
+* -- 104
+:= -- 335
+add.period$ -- 22
+call.type$ -- 8
+change.case$ -- 29
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 83
+empty$ -- 191
+format.name$ -- 16
+if$ -- 409
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 9
+newline$ -- 41
+num.names$ -- 16
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 56
+stack$ -- 0
+substring$ -- 116
+swap$ -- 9
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 26
+warning$ -- 0
+while$ -- 22
+width$ -- 9
+write$ -- 82
