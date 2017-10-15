@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  12 OCT 2017 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  15 OCT 2017 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -79,14 +79,14 @@ LaTeX Font Info:    ... okay on input line 8.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(93.95122pt, 649.68898pt, 101.40665pt)
+* v-part:(T,H,B)=(122.85876pt, 620.78143pt, 101.40665pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=418.25368pt
-* \textheight=649.68898pt
+* \textheight=620.78143pt
 * \oddsidemargin=17.3571pt
 * \evensidemargin=17.3571pt
-* \topmargin=-15.31877pt
+* \topmargin=13.58878pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -124,44 +124,43 @@ Underfull \hbox (badness 1221) in paragraph at lines 23--23
 y the ad-jec-tive ``non-
  []
 
-[2] [3] [4]
+[2] [3] [4] [5]
 Overfull \hbox (13.99832pt too wide) in paragraph at lines 74--74
 \OT1/cmr/m/n/12 lem? One ques-tion is whether Paul fully pre-serves the first-p
 ersonal/third-
  []
 
-[5] [6] [7] [8] [9] [10]
+[6] [7] [8] [9] [10] [11]
 Overfull \hbox (0.96512pt too wide) in paragraph at lines 137--138
 []\OT1/cmr/m/n/12 Here's a quick re-cap. It's tempt-ing to think that the ex-pl
 a-na-tion for Anscombe's
  []
 
-[11] [12] [13] [14] [15] [16] [17] [18] (./Knowing_What_I_Mean_To_Do.aux) ) 
+[12] [13] [14] [15] [16] [17] [18] (./Knowing_What_I_Mean_To_Do.bbl [19])
+[20] (./Knowing_What_I_Mean_To_Do.aux) ) 
 Here is how much of TeX's memory you used:
- 762 strings out of 494437
- 10683 string characters out of 6166645
- 71446 words of memory out of 5000000
- 4160 multiletter control sequences out of 15000+600000
- 10508 words of font info for 36 fonts, out of 8000000 for 9000
+ 785 strings out of 494437
+ 11015 string characters out of 6166645
+ 70516 words of memory out of 5000000
+ 4180 multiletter control sequences out of 15000+600000
+ 10827 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 23i,8n,19p,1808b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
-</us
-r/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
-xti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on Knowing_What_I_Mean_To_Do.pdf (18 pages, 193278 bytes).
+ 23i,8n,19p,1808b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017basic/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017b
+asic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2
+017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
+/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
+ocal/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Knowing_What_I_Mean_To_Do.pdf (20 pages, 189100 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

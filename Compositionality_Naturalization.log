@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  14 OCT 2017 00:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  14 OCT 2017 11:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -133,60 +133,30 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
  [3]
-[4] [5] [6] [7]
-
-LaTeX Warning: Citation `fodor2001language' undefined on input line 147.
-
-
-LaTeX Warning: Citation `fodor1990theory' undefined on input line 148.
-
-
-LaTeX Warning: Citation `fodor1987psychosemantics' undefined on input line 149.
-
-
-
-LaTeX Warning: Citation `millikan1984language' undefined on input line 150.
-
-
-LaTeX Warning: Citation `papineau1987representation' undefined on input line 15
-1.
-
-
-LaTeX Warning: Citation `robbins2002blunt' undefined on input line 152.
-
-
-LaTeX Warning: Citation `ryder2004sinbad' undefined on input line 153.
-
-(./Compositionality_Naturalization.bbl [8]) [9]
-(./Compositionality_Naturalization.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[4] [5] [6] [7] (./Compositionality_Naturalization.bbl [8]) [9]
+(./Compositionality_Naturalization.aux) ) 
 Here is how much of TeX's memory you used:
  792 strings out of 494437
  11323 string characters out of 6166645
- 71473 words of memory out of 5000000
+ 71494 words of memory out of 5000000
  4183 multiletter control sequences out of 15000+600000
  10820 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 24i,8n,19p,1364b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbxti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/font
-s/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017basic/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on Compositionality_Naturalization.pdf (9 pages, 159839 bytes).
+ 24i,8n,19p,1364b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017basic/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017
+basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
+e/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
+ive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
+local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
+usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
+>
+Output written on Compositionality_Naturalization.pdf (9 pages, 160601 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream

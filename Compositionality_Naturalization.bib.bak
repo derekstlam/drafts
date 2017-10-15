@@ -1,6 +1,6 @@
 % Encoding: UTF-8
 
-@book{fred1981knowledge,
+@Book{fred1981knowledge,
   title     = {Knowledge and the Flow of Information},
   publisher = {Cambridge, Massachusetts, MIT Press},
   year      = {1981},
@@ -39,7 +39,7 @@
   publisher={MIT press}
 }
 
-@book{papineau1987representation,
+@Book{papineau1987representation,
   title     = {Representation and reality},
   publisher = {New York: Basil Blackwell},
   year      = {1987},
