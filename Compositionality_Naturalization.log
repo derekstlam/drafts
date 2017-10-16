@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  14 OCT 2017 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  15 OCT 2017 22:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -79,14 +79,14 @@ LaTeX Font Info:    ... okay on input line 10.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(93.95122pt, 649.68898pt, 101.40665pt)
+* v-part:(T,H,B)=(101.17755pt, 642.46265pt, 101.40665pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=418.25368pt
-* \textheight=649.68898pt
+* \textheight=642.46265pt
 * \oddsidemargin=17.3571pt
 * \evensidemargin=17.3571pt
-* \topmargin=-15.31877pt
+* \topmargin=-8.09244pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -156,7 +156,7 @@ l/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
 usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
 >
-Output written on Compositionality_Naturalization.pdf (9 pages, 160601 bytes).
+Output written on Compositionality_Naturalization.pdf (9 pages, 160556 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
