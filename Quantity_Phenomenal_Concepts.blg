@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Quantity_Phenomenal_Concepts.aux
+The style file: plain.bst
+Database file #1: Quantity_Phenomenal_Concepts.bib.bib
+You've used 33 entries,
+            2118 wiz_defined-function locations,
+            715 strings with 7930 characters,
+and the built_in function-call counts, 9520 in all, are:
+= -- 974
+> -- 278
+< -- 2
++ -- 119
+- -- 80
+* -- 609
+:= -- 1595
+add.period$ -- 103
+call.type$ -- 33
+change.case$ -- 128
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 405
+empty$ -- 874
+format.name$ -- 80
+if$ -- 1995
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 41
+newline$ -- 168
+num.names$ -- 74
+pop$ -- 140
+preamble$ -- 1
+purify$ -- 103
+quote$ -- 0
+skip$ -- 244
+stack$ -- 0
+substring$ -- 727
+swap$ -- 51
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 116
+warning$ -- 0
+while$ -- 118
+width$ -- 35
+write$ -- 359
