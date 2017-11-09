@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Quantity_Phenomenal_Concepts.aux
 The style file: plain.bst
 Database file #1: Quantity_Phenomenal_Concepts.bib.bib
-You've used 33 entries,
+You've used 34 entries,
             2118 wiz_defined-function locations,
-            715 strings with 7930 characters,
-and the built_in function-call counts, 9520 in all, are:
-= -- 974
-> -- 278
+            721 strings with 8062 characters,
+and the built_in function-call counts, 9812 in all, are:
+= -- 1006
+> -- 285
 < -- 2
-+ -- 119
-- -- 80
-* -- 609
-:= -- 1595
-add.period$ -- 103
-call.type$ -- 33
-change.case$ -- 128
++ -- 122
+- -- 82
+* -- 628
+:= -- 1644
+add.period$ -- 106
+call.type$ -- 34
+change.case$ -- 132
 chr.to.int$ -- 0
-cite$ -- 33
-duplicate$ -- 405
-empty$ -- 874
-format.name$ -- 80
-if$ -- 1995
+cite$ -- 34
+duplicate$ -- 416
+empty$ -- 900
+format.name$ -- 82
+if$ -- 2055
 int.to.chr$ -- 0
-int.to.str$ -- 33
-missing$ -- 41
-newline$ -- 168
-num.names$ -- 74
-pop$ -- 140
+int.to.str$ -- 34
+missing$ -- 42
+newline$ -- 173
+num.names$ -- 76
+pop$ -- 142
 preamble$ -- 1
-purify$ -- 103
+purify$ -- 106
 quote$ -- 0
-skip$ -- 244
+skip$ -- 251
 stack$ -- 0
-substring$ -- 727
-swap$ -- 51
+substring$ -- 757
+swap$ -- 52
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 116
+type$ -- 120
 warning$ -- 0
-while$ -- 118
-width$ -- 35
-write$ -- 359
+while$ -- 122
+width$ -- 36
+write$ -- 370

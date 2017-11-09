@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  15 OCT 2017 10:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  6 NOV 2017 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -145,7 +145,7 @@ Here is how much of TeX's memory you used:
  4180 multiletter control sequences out of 15000+600000
  10827 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 23i,8n,19p,1808b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,19p,1983b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017basic/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/t
@@ -157,7 +157,7 @@ live/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
 exlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Knowing_What_I_Mean_To_Do.pdf (20 pages, 189100 bytes).
+Output written on Knowing_What_I_Mean_To_Do.pdf (20 pages, 190160 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
