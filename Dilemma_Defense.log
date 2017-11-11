@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  8 NOV 2017 19:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  11 NOV 2017 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Compositionality_Naturalization.tex
-(./Compositionality_Naturalization.tex
+**Dilemma_Defense.tex
+(./Dilemma_Defense.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/article.cls
@@ -54,32 +54,34 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
+(/Users/dereklam/Library/texmf/tex/latex/theapa/theapa.sty
+APA Citation (& Optional APA Heading) Style - Version 2.5.1 (5/92)
+\bibleftmargin=\skip43
+\b@level@one@skip=\skip44
+\e@level@one@skip=\skip45
+\b@level@two@skip=\skip46
+\e@level@two@skip=\skip47
+\b@level@three@skip=\skip48
+\e@level@three@skip=\skip49
+\b@level@four@skip=\skip50
+\e@level@four@skip=\skip51
+\b@level@five@skip=\skip52
+\e@level@five@skip=\skip53
+\c@APAenum=\count90
+\@text@par@indent=\skip54
+\UL@hyphenbox=\box26
+\UL@box=\box27
+\UL@spfactor=\count91
+\UL@penalty=\count92
+\UL@skip=\skip55
+\UL@lht=\dimen111
+\UL@ldp=\dimen112
+\UL@pixel=\dimen113
+) (./Dilemma_Defense.aux)
+\openout1 = `Dilemma_Defense.aux'.
 
-! LaTeX Error: File `apa6.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-./Compositionality_Naturalization.tex:6: Emergency stop.
-<read *> 
-         
-l.6 \title
-          {\textbf{Is Compositionality a Shortcut to Naturalization?}}^^M
-End of file on the terminal!
-
- 
-Here is how much of TeX's memory you used:
- 718 strings out of 494437
- 10078 string characters out of 6166645
- 61748 words of memory out of 5000000
- 4134 multiletter control sequences out of 15000+600000
- 3938 words of font info for 15 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 23i,0n,19p,164b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Compositionality_Naturalization.tex:6:  ==> Fatal error occurred, no output P
-DF file produced!
-e 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
@@ -129,58 +131,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
-
-Overfull \hbox (1.49983pt too wide) in paragraph at lines 20--21
-[]\OT1/cmr/m/n/12 Suppose our minds pro-cess non-semantically in-di-vid-u-ated 
-rep-re-sen-ta-tions. Sup-
- []
-
 [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
- [3]
-[4] [5] [6] [7] (./Compositionality_Naturalization.bbl [8]) [9]
-(./Compositionality_Naturalization.aux) ) 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+
+[2] [3] [4] [5] [6] [7]
+Overfull \hbox (11.80725pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 tions.[]But weak-en-ing his anti-overdetermination stance in an
+ ad hoc man-ner wouldn't
+ []
+
+[8] [9] [10] [11] [12] (./Dilemma_Defense.bbl [13]) [14] (./Dilemma_Defense.aux
+) ) 
 Here is how much of TeX's memory you used:
- 938 strings out of 494437
- 12917 string characters out of 6166645
- 75021 words of memory out of 5000000
+ 934 strings out of 494437
+ 12706 string characters out of 6166645
+ 74860 words of memory out of 5000000
  4325 multiletter control sequences out of 15000+600000
- 10820 words of font info for 37 fonts, out of 8000000 for 9000
+ 11135 words of font info for 38 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 24i,8n,19p,1364b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017basic/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017
-basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
-017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
-e/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
-ive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
-local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
-usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
->
-Output written on Compositionality_Naturalization.pdf (9 pages, 161972 bytes).
+ 23i,8n,19p,1513b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbxti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Dilemma_Defense.pdf (14 pages, 177791 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

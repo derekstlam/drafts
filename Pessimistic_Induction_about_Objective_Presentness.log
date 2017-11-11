@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  15 OCT 2017 22:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  8 NOV 2017 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -54,7 +54,30 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
-(./Pessimistic_Induction_about_Objective_Presentness.aux)
+(/Users/dereklam/Library/texmf/tex/latex/theapa/theapa.sty
+APA Citation (& Optional APA Heading) Style - Version 2.5.1 (5/92)
+\bibleftmargin=\skip43
+\b@level@one@skip=\skip44
+\e@level@one@skip=\skip45
+\b@level@two@skip=\skip46
+\e@level@two@skip=\skip47
+\b@level@three@skip=\skip48
+\e@level@three@skip=\skip49
+\b@level@four@skip=\skip50
+\e@level@four@skip=\skip51
+\b@level@five@skip=\skip52
+\e@level@five@skip=\skip53
+\c@APAenum=\count90
+\@text@par@indent=\skip54
+\UL@hyphenbox=\box26
+\UL@box=\box27
+\UL@spfactor=\count91
+\UL@penalty=\count92
+\UL@skip=\skip55
+\UL@lht=\dimen111
+\UL@ldp=\dimen112
+\UL@pixel=\dimen113
+) (./Pessimistic_Induction_about_Objective_Presentness.aux)
 \openout1 = `Pessimistic_Induction_about_Objective_Presentness.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -143,13 +166,13 @@ Overfull \vbox (0.34439pt too high) has occurred while \output is active []
 [14] (./Pessimistic_Induction_about_Objective_Presentness.bbl [15] [16])
 [17] (./Pessimistic_Induction_about_Objective_Presentness.aux) ) 
 Here is how much of TeX's memory you used:
- 812 strings out of 494437
- 11918 string characters out of 6166645
- 71571 words of memory out of 5000000
- 4204 multiletter control sequences out of 15000+600000
+ 975 strings out of 494437
+ 13847 string characters out of 6166645
+ 75027 words of memory out of 5000000
+ 4363 multiletter control sequences out of 15000+600000
  11186 words of font info for 38 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 23i,8n,19p,1759b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,19p,1759b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/tex
 live/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local
 /texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/l
@@ -163,7 +186,7 @@ m/cmsy10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmti12.pfb>
 Output written on Pessimistic_Induction_about_Objective_Presentness.pdf (17 pag
-es, 183536 bytes).
+es, 185704 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

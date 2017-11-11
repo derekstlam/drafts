@@ -1,54 +1,50 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Pessimistic_Induction_about_Objective_Presentness.aux
-The style file: plain.bst
+The style file: theapa.bst
 Database file #1: Pessimistic_Induction_about_Objective_Presentness.bib.bib
-I was expecting a `,' or a `}'---line 176 of file Pessimistic_Induction_about_Objective_Presentness.bib.bib
- :   
- :   publisher={OUP}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--empty journal in christensen2013epistemic
-Warning--empty publisher in van1985essay
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You can't pop an empty literal stack for entry Miller2016
+while executing---line 1435 of file theapa.bst
 You've used 26 entries,
-            2118 wiz_defined-function locations,
-            647 strings with 6859 characters,
-and the built_in function-call counts, 7376 in all, are:
-= -- 749
-> -- 212
-< -- 3
-+ -- 95
-- -- 61
-* -- 453
-:= -- 1233
-add.period$ -- 80
+            2802 wiz_defined-function locations,
+            761 strings with 7720 characters,
+and the built_in function-call counts, 9412 in all, are:
+= -- 880
+> -- 310
+< -- 29
++ -- 100
+- -- 92
+* -- 875
+:= -- 1565
+add.period$ -- 62
 call.type$ -- 26
-change.case$ -- 100
-chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 322
-empty$ -- 670
-format.name$ -- 61
-if$ -- 1553
+change.case$ -- 107
+chr.to.int$ -- 26
+cite$ -- 26
+duplicate$ -- 412
+empty$ -- 761
+format.name$ -- 124
+if$ -- 1841
 int.to.chr$ -- 0
-int.to.str$ -- 26
+int.to.str$ -- 0
 missing$ -- 33
 newline$ -- 133
-num.names$ -- 56
-pop$ -- 114
+num.names$ -- 110
+pop$ -- 122
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 159
 quote$ -- 0
-skip$ -- 207
+skip$ -- 276
 stack$ -- 0
-substring$ -- 539
-swap$ -- 48
+substring$ -- 592
+swap$ -- 115
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 90
-warning$ -- 2
-while$ -- 89
-width$ -- 28
-write$ -- 280
+type$ -- 180
+warning$ -- 0
+while$ -- 116
+width$ -- 0
+write$ -- 336
 (There was 1 error message)

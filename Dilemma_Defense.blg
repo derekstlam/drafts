@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Dilemma_Defense.aux
+The style file: theapa.bst
+Database file #1: Dilemma_Defense.bib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 15 entries,
+            2802 wiz_defined-function locations,
+            713 strings with 6673 characters,
+and the built_in function-call counts, 5159 in all, are:
+= -- 482
+> -- 160
+< -- 15
++ -- 49
+- -- 48
+* -- 490
+:= -- 871
+add.period$ -- 35
+call.type$ -- 15
+change.case$ -- 61
+chr.to.int$ -- 15
+cite$ -- 15
+duplicate$ -- 218
+empty$ -- 421
+format.name$ -- 65
+if$ -- 985
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 78
+num.names$ -- 60
+pop$ -- 66
+preamble$ -- 1
+purify$ -- 91
+quote$ -- 0
+skip$ -- 141
+stack$ -- 0
+substring$ -- 347
+swap$ -- 53
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 0
+while$ -- 65
+width$ -- 0
+write$ -- 192

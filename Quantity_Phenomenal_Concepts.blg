@@ -1,46 +1,47 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Quantity_Phenomenal_Concepts.aux
-The style file: plain.bst
+The style file: theapa.bst
 Database file #1: Quantity_Phenomenal_Concepts.bib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 34 entries,
-            2118 wiz_defined-function locations,
-            721 strings with 8062 characters,
-and the built_in function-call counts, 9812 in all, are:
-= -- 1006
-> -- 285
-< -- 2
-+ -- 122
-- -- 82
-* -- 628
-:= -- 1644
-add.period$ -- 106
+            2802 wiz_defined-function locations,
+            830 strings with 8821 characters,
+and the built_in function-call counts, 12364 in all, are:
+= -- 1165
+> -- 402
+< -- 35
++ -- 126
+- -- 120
+* -- 1174
+:= -- 2058
+add.period$ -- 80
 call.type$ -- 34
-change.case$ -- 132
-chr.to.int$ -- 0
+change.case$ -- 140
+chr.to.int$ -- 34
 cite$ -- 34
-duplicate$ -- 416
-empty$ -- 900
-format.name$ -- 82
-if$ -- 2055
+duplicate$ -- 530
+empty$ -- 1008
+format.name$ -- 158
+if$ -- 2400
 int.to.chr$ -- 0
-int.to.str$ -- 34
+int.to.str$ -- 0
 missing$ -- 42
 newline$ -- 173
-num.names$ -- 76
-pop$ -- 142
+num.names$ -- 144
+pop$ -- 157
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 208
 quote$ -- 0
-skip$ -- 251
+skip$ -- 340
 stack$ -- 0
-substring$ -- 757
-swap$ -- 52
+substring$ -- 825
+swap$ -- 140
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 120
+type$ -- 240
 warning$ -- 0
-while$ -- 122
-width$ -- 36
-write$ -- 370
+while$ -- 156
+width$ -- 0
+write$ -- 438

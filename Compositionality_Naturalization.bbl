@@ -1,45 +1,46 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{fred1981knowledge}
-Fred Dretske.
-\newblock {\em Knowledge and the Flow of Information}.
-\newblock Cambridge, Massachusetts, MIT Press, 1981.
+\bibitem[\protect\BCAY{Dretske}{Dretske}{1981}]{fred1981knowledge}
+Dretske, F. \BBOP1981\BBCP.
+\newblock {\Bem Knowledge and the Flow of Information}.
+\newblock Cambridge, Massachusetts, MIT Press.
 
-\bibitem{fodor2001language}
-Jerry Fodor.
-\newblock Language, thought and compositionality.
-\newblock {\em Royal Institute of Philosophy Supplements}, 48:227--242, 2001.
+\bibitem[\protect\BCAY{Fodor}{Fodor}{2001}]{fodor2001language}
+Fodor, J. \BBOP2001\BBCP.
+\newblock \BBOQ Language, thought and compositionality\BBCQ\
+\newblock {\Bem Royal Institute of Philosophy Supplements}, {\Bem 48},
+  227--242.
 
-\bibitem{fodor1987psychosemantics}
-Jerry~A Fodor.
-\newblock {\em Psychosemantics: The problem of meaning in the philosophy of
-  mind}, volume~2.
-\newblock MIT press, 1987.
+\bibitem[\protect\BCAY{Fodor}{Fodor}{1987}]{fodor1987psychosemantics}
+Fodor, J.~A. \BBOP1987\BBCP.
+\newblock {\Bem Psychosemantics: The problem of meaning in the philosophy of
+  mind}, \lowercase{\BVOL}~2.
+\newblock MIT press.
 
-\bibitem{fodor1990theory}
-Jerry~A Fodor.
-\newblock {\em A theory of content and other essays}.
-\newblock MIT press, 1990.
+\bibitem[\protect\BCAY{Fodor}{Fodor}{1990}]{fodor1990theory}
+Fodor, J.~A. \BBOP1990\BBCP.
+\newblock {\Bem A theory of content and other essays}.
+\newblock MIT press.
 
-\bibitem{millikan1984language}
-Ruth~Garrett Millikan.
-\newblock {\em Language, thought, and other biological categories: New
+\bibitem[\protect\BCAY{Millikan}{Millikan}{1984}]{millikan1984language}
+Millikan, R.~G. \BBOP1984\BBCP.
+\newblock {\Bem Language, thought, and other biological categories: New
   foundations for realism}.
-\newblock MIT press, 1984.
+\newblock MIT press.
 
-\bibitem{papineau1987representation}
-David Papineau.
-\newblock {\em Representation and reality}.
-\newblock New York: Basil Blackwell, 1987.
+\bibitem[\protect\BCAY{Papineau}{Papineau}{1987}]{papineau1987representation}
+Papineau, D. \BBOP1987\BBCP.
+\newblock {\Bem Representation and reality}.
+\newblock New York: Basil Blackwell.
 
-\bibitem{robbins2002blunt}
-Philip Robbins.
-\newblock How to blunt the sword of compositionality.
-\newblock {\em Nous}, 36(2):313--334, 2002.
+\bibitem[\protect\BCAY{Robbins}{Robbins}{2002}]{robbins2002blunt}
+Robbins, P. \BBOP2002\BBCP.
+\newblock \BBOQ How to blunt the sword of compositionality\BBCQ\
+\newblock {\Bem Nous}, {\Bem 36\/}(2), 313--334.
 
-\bibitem{ryder2004sinbad}
-Dan Ryder.
-\newblock Sinbad neurosemantics: A theory of mental representation.
-\newblock {\em Mind \& Language}, 19(2):211--240, 2004.
+\bibitem[\protect\BCAY{Ryder}{Ryder}{2004}]{ryder2004sinbad}
+Ryder, D. \BBOP2004\BBCP.
+\newblock \BBOQ SINBAD neurosemantics: A theory of mental representation\BBCQ\
+\newblock {\Bem Mind \& Language}, {\Bem 19\/}(2), 211--240.
 
 \end{thebibliography}
