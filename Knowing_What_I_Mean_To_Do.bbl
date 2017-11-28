@@ -1,105 +1,105 @@
-\begin{thebibliography}{10}
+ \newcommand{\noop}[1]{}
+\begin{thebibliography}{}
 
-\bibitem{anscombeintention}
-G.E.M. Anscombe.
-\newblock {\em Intention}.
-\newblock Harvard University Press, 2000.
+\bibitem[\protect\BCAY{Anscombe}{Anscombe}{2000}]{anscombeintention}
+Anscombe, G. \BBOP2000\BBCP.
+\newblock {\Bem Intention}.
+\newblock Harvard University Press.
 
-\bibitem{barnesdependence}
-E.~Barnes.
-\newblock Symmetric {D}ependence.
-\newblock In {\em Reality and its Structure}. OUP, forthcoming.
+\bibitem[\protect\BCAY{Barnes}{Barnes}{ming}]{barnesdependence}
+Barnes, E. \BBOP\noop{3000}forthcoming\BBCP.
+\newblock \BBOQ Symmetric {D}ependence\BBCQ\
+\newblock In {\Bem Reality and its Structure}. OUP.
 
-\bibitem{Gruenbarum}
-T.~Gr{\"u}nbraum.
-\newblock Seeing {W}hat {I} am {D}oing.
-\newblock {\em Philosophy and Phenomenological Research}, 86(2):295--318, 2013.
+\bibitem[\protect\BCAY{Gr{\"u}nbraum}{Gr{\"u}nbraum}{2013}]{Gruenbarum}
+Gr{\"u}nbraum, T. \BBOP2013\BBCP.
+\newblock \BBOQ Seeing {W}hat {I} Am {D}oing\BBCQ\
+\newblock {\Bem Philosophy and Phenomenological Research}, {\Bem 86\/}(2),
+  295--318.
 
-\bibitem{jeshionkripke}
-R.~Jeshion.
-\newblock Donnellan on {N}eptune.
-\newblock {\em Philosophy and Phenomenological Research}, 63:111--135, 2001.
+\bibitem[\protect\BCAY{Jeshion}{Jeshion}{2001}]{jeshionkripke}
+Jeshion, R. \BBOP2001\BBCP.
+\newblock \BBOQ Donnellan on {N}eptune\BBCQ\
+\newblock {\Bem Philosophy and Phenomenological Research}, {\Bem 63}, 111--135.
 
-\bibitem{korman2010}
-D.~Korman.
-\newblock The {C}ontingent a priori and the {P}ublicity of a priori.
-\newblock {\em Philosophical Studies}, 149:387--393, 2010.
+\bibitem[\protect\BCAY{Korman}{Korman}{2010}]{korman2010}
+Korman, D. \BBOP2010\BBCP.
+\newblock \BBOQ The {C}ontingent A Priori and the {P}ublicity of A Priori\BBCQ\
+\newblock {\Bem Philosophical Studies}, {\Bem 149}, 387--393.
 
-\bibitem{kripkeNN}
-S.~Kripke.
-\newblock {\em Naming and Necessity}.
-\newblock Harvard University Press, 1980.
+\bibitem[\protect\BCAY{Kripke}{Kripke}{1980}]{kripkeNN}
+Kripke, S. \BBOP1980\BBCP.
+\newblock {\Bem Naming and Necessity}.
+\newblock Harvard University Press.
 
-\bibitem{moran2001}
-R.~Moran.
-\newblock {\em Authority and Estrangement: An Essay on Self-Knowledge}.
-\newblock Princeton University Press, 2001.
+\bibitem[\protect\BCAY{Moran}{Moran}{2001}]{moran2001}
+Moran, R. \BBOP2001\BBCP.
+\newblock {\Bem Authority and Estrangement: An Essay on Self-Knowledge}.
+\newblock Princeton University Press.
 
-\bibitem{moran2004}
-R.~Moran.
-\newblock Anscombe on ``{P}ractical {K}nowledge".
-\newblock In John Hyman \&~Helen Steward, editor, {\em Agency and Action},
-  Royal Institute of Philosophy Supplement 55, pages 43--68. Cambridge
-  University Press, 2004.
+\bibitem[\protect\BCAY{Moran}{Moran}{2004}]{moran2004}
+Moran, R. \BBOP2004\BBCP.
+\newblock \BBOQ Anscombe on ``{P}ractical {K}nowledge"\BBCQ\
+\newblock In Steward, J. H. .~H.\BED, {\Bem Agency and Action}, Royal Institute
+  of Philosophy Supplement 55, \BPGS\ 43--68. Cambridge University Press.
 
-\bibitem{newstead2006}
-A.~Newstead.
-\newblock Knowledge by {I}ntention? {O}n the {P}ossibility of {A}gent's
-  {K}nowledge.
-\newblock In Stephen Hetherington, editor, {\em Aspects of Knowing}, pages
-  183--202. Elsevier Science, 2006.
+\bibitem[\protect\BCAY{Newstead}{Newstead}{2006}]{newstead2006}
+Newstead, A. \BBOP2006\BBCP.
+\newblock \BBOQ Knowledge by {I}ntention? {O}n the {P}ossibility of {A}gent's
+  {K}nowledge\BBCQ\
+\newblock In Hetherington, S.\BED, {\Bem Aspects of Knowing}, \BPGS\ 183--202.
+  Elsevier Science.
 
-\bibitem{spaul2009}
-S.K. Paul.
-\newblock How {W}e {K}now {W}hat {W}e're {D}oing.
-\newblock {\em Philosophers' Imprint}, 9(11):1--24, 2009.
+\bibitem[\protect\BCAY{Paul}{Paul}{2009}]{spaul2009}
+Paul, S. \BBOP2009\BBCP.
+\newblock \BBOQ How {W}e {K}now {W}hat {W}e're {D}oing\BBCQ\
+\newblock {\Bem Philosophers' Imprint}, {\Bem 9\/}(11), 1--24.
 
-\bibitem{spaul2012}
-S.K. Paul.
-\newblock How {W}e {K}now {W}hat {W}e {I}ntend.
-\newblock {\em Philosophical Studies}, 161:327--346, 2012.
+\bibitem[\protect\BCAY{Paul}{Paul}{2012}]{spaul2012}
+Paul, S. \BBOP2012\BBCP.
+\newblock \BBOQ How {W}e {K}now {W}hat {W}e {I}ntend\BBCQ\
+\newblock {\Bem Philosophical Studies}, {\Bem 161}, 327--346.
 
-\bibitem{spaul2015}
-S.K. Paul.
-\newblock The {T}ransparency of {I}ntention.
-\newblock {\em Philosophical Studies}, 172:1529--1548, 2015.
+\bibitem[\protect\BCAY{Paul}{Paul}{2015}]{spaul2015}
+Paul, S. \BBOP2015\BBCP.
+\newblock \BBOQ The {T}ransparency of {I}ntention\BBCQ\
+\newblock {\Bem Philosophical Studies}, {\Bem 172}, 1529--1548.
 
-\bibitem{schwenkler2011}
-J.~Schwenkler.
-\newblock Perception and {P}ractical {K}nowledge.
-\newblock {\em Philosophical Exploration}, 14(2):137--152, 2011.
+\bibitem[\protect\BCAY{Schwenkler}{Schwenkler}{2011}]{schwenkler2011}
+Schwenkler, J. \BBOP2011\BBCP.
+\newblock \BBOQ Perception and {P}ractical {K}nowledge\BBCQ\
+\newblock {\Bem Philosophical Exploration}, {\Bem 14\/}(2), 137--152.
 
-\bibitem{schwenkler2015}
-J.~Schwenkler.
-\newblock Unverstanding ``{P}ractical {K}nowledge".
-\newblock {\em Philosophers' Imprint}, 15(15):1--32, 2015.
+\bibitem[\protect\BCAY{Schwenkler}{Schwenkler}{2015}]{schwenkler2015}
+Schwenkler, J. \BBOP2015\BBCP.
+\newblock \BBOQ Unverstanding ``{P}ractical {K}nowledge"\BBCQ\
+\newblock {\Bem Philosophers' Imprint}, {\Bem 15\/}(15), 1--32.
 
-\bibitem{setiya2008}
-K.~Setiya.
-\newblock Practical {K}nowledge.
-\newblock {\em Ethics}, 118:388--409, 2008.
+\bibitem[\protect\BCAY{Setiya}{Setiya}{2008}]{setiya2008}
+Setiya, K. \BBOP2008\BBCP.
+\newblock \BBOQ Practical {K}nowledge\BBCQ\
+\newblock {\Bem Ethics}, {\Bem 118}, 388--409.
 
-\bibitem{setiya2009}
-K.~Setiya.
-\newblock Practical {K}nowledge {R}evisited.
-\newblock {\em Ethics}, 120:128--137, 2009.
+\bibitem[\protect\BCAY{Setiya}{Setiya}{2009}]{setiya2009}
+Setiya, K. \BBOP2009\BBCP.
+\newblock \BBOQ Practical {K}nowledge {R}evisited\BBCQ\
+\newblock {\Bem Ethics}, {\Bem 120}, 128--137.
 
-\bibitem{small2012}
-W.~Small.
-\newblock Practical {K}nowledge and the {S}tructure of {A}ction.
-\newblock In Guenter Abel \&~James Conant, editor, {\em Rethinking
-  Epistemology}, volume~2, pages 133--228. De Gruyter, 2012.
+\bibitem[\protect\BCAY{Small}{Small}{2012}]{small2012}
+Small, W. \BBOP2012\BBCP.
+\newblock \BBOQ Practical {K}nowledge and the {S}tructure of {A}ction\BBCQ\
+\newblock In Conant, G. A. .~J.\BED, {\Bem Rethinking Epistemology},
+  \lowercase{\BVOL}~2, \BPGS\ 133--228. De Gruyter.
 
-\bibitem{thompson2011}
-M.~Thompson.
-\newblock Anscombe's \emph{{I}ntention} and {P}ractical {K}nowledge.
-\newblock In Anton Ford \& Jennifer Hornsby \&~Frederick Stoutland, editor,
-  {\em Essays on Anscombe's Intention}, pages 198--210. Harvard Uiversity
-  Press, 2011.
+\bibitem[\protect\BCAY{Thompson}{Thompson}{2011}]{thompson2011}
+Thompson, M. \BBOP2011\BBCP.
+\newblock \BBOQ Anscombe's \emph{{I}ntention} and {P}ractical {K}nowledge\BBCQ\
+\newblock In Stoutland, A. F. . J. H. .~F.\BED, {\Bem Essays on Anscombe's
+  Intention}, \BPGS\ 198--210. Harvard Uiversity Press.
 
-\bibitem{vellema1989}
-D.~Velleman.
-\newblock {\em Practical Reflection}.
-\newblock Princeton University Press, 1989.
+\bibitem[\protect\BCAY{Velleman}{Velleman}{1989}]{vellema1989}
+Velleman, D. \BBOP1989\BBCP.
+\newblock {\Bem Practical Reflection}.
+\newblock Princeton University Press.
 
 \end{thebibliography}

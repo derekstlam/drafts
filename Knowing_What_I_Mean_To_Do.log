@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  6 NOV 2017 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  27 NOV 2017 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -54,21 +54,44 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
-(./Knowing_What_I_Mean_To_Do.aux)
+(/Users/dereklam/Library/texmf/tex/latex/theapa/theapa.sty
+APA Citation (& Optional APA Heading) Style - Version 2.5.1 (5/92)
+\bibleftmargin=\skip43
+\b@level@one@skip=\skip44
+\e@level@one@skip=\skip45
+\b@level@two@skip=\skip46
+\e@level@two@skip=\skip47
+\b@level@three@skip=\skip48
+\e@level@three@skip=\skip49
+\b@level@four@skip=\skip50
+\e@level@four@skip=\skip51
+\b@level@five@skip=\skip52
+\e@level@five@skip=\skip53
+\c@APAenum=\count90
+\@text@par@indent=\skip54
+\UL@hyphenbox=\box26
+\UL@box=\box27
+\UL@spfactor=\count91
+\UL@penalty=\count92
+\UL@skip=\skip55
+\UL@lht=\dimen111
+\UL@ldp=\dimen112
+\UL@pixel=\dimen113
+) (./Knowing_What_I_Mean_To_Do.aux)
 \openout1 = `Knowing_What_I_Mean_To_Do.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -105,33 +128,33 @@ LaTeX Font Info:    ... okay on input line 8.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
+(Font)              <14.4> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 17.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 17.
+(Font)              <6> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 19.
+(Font)              <5> on input line 20.
 [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 1221) in paragraph at lines 23--23
+Underfull \hbox (badness 1221) in paragraph at lines 24--24
 [][]\OT1/cmr/m/n/10 Notice that Anscombe is mak-ing it quite clear here that, b
 y the ad-jec-tive ``non-
  []
 
 [2] [3] [4] [5]
-Overfull \hbox (13.99832pt too wide) in paragraph at lines 74--74
+Overfull \hbox (13.99832pt too wide) in paragraph at lines 75--75
 \OT1/cmr/m/n/12 lem? One ques-tion is whether Paul fully pre-serves the first-p
 ersonal/third-
  []
 
 [6] [7] [8] [9] [10] [11]
-Overfull \hbox (0.96512pt too wide) in paragraph at lines 137--138
+Overfull \hbox (0.96512pt too wide) in paragraph at lines 138--139
 []\OT1/cmr/m/n/12 Here's a quick re-cap. It's tempt-ing to think that the ex-pl
 a-na-tion for Anscombe's
  []
@@ -139,13 +162,13 @@ a-na-tion for Anscombe's
 [12] [13] [14] [15] [16] [17] [18] (./Knowing_What_I_Mean_To_Do.bbl [19])
 [20] (./Knowing_What_I_Mean_To_Do.aux) ) 
 Here is how much of TeX's memory you used:
- 785 strings out of 494437
- 11015 string characters out of 6166645
- 70516 words of memory out of 5000000
- 4180 multiletter control sequences out of 15000+600000
+ 944 strings out of 494437
+ 12704 string characters out of 6166645
+ 74000 words of memory out of 5000000
+ 4334 multiletter control sequences out of 15000+600000
  10827 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 23i,8n,19p,1983b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,19p,1983b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017basic/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/t
@@ -157,7 +180,7 @@ live/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
 exlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Knowing_What_I_Mean_To_Do.pdf (20 pages, 190160 bytes).
+Output written on Knowing_What_I_Mean_To_Do.pdf (20 pages, 191618 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream

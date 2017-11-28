@@ -1,46 +1,47 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Modal_Testimony.aux
-The style file: plain.bst
+The style file: theapa.bst
 Database file #1: Modal_Testimony.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 31 entries,
-            2118 wiz_defined-function locations,
-            703 strings with 7327 characters,
-and the built_in function-call counts, 8905 in all, are:
-= -- 891
-> -- 249
-< -- 4
-+ -- 106
-- -- 71
-* -- 541
-:= -- 1480
-add.period$ -- 97
+            2802 wiz_defined-function locations,
+            812 strings with 8098 characters,
+and the built_in function-call counts, 11172 in all, are:
+= -- 1029
+> -- 354
+< -- 35
++ -- 110
+- -- 105
+* -- 1023
+:= -- 1854
+add.period$ -- 76
 call.type$ -- 31
-change.case$ -- 117
-chr.to.int$ -- 0
+change.case$ -- 126
+chr.to.int$ -- 30
 cite$ -- 31
-duplicate$ -- 401
-empty$ -- 835
-format.name$ -- 71
-if$ -- 1916
-int.to.chr$ -- 0
-int.to.str$ -- 31
+duplicate$ -- 500
+empty$ -- 925
+format.name$ -- 140
+if$ -- 2215
+int.to.chr$ -- 1
+int.to.str$ -- 0
 missing$ -- 41
 newline$ -- 158
-num.names$ -- 70
-pop$ -- 143
+num.names$ -- 132
+pop$ -- 151
 preamble$ -- 1
-purify$ -- 95
+purify$ -- 188
 quote$ -- 0
-skip$ -- 250
+skip$ -- 338
 stack$ -- 0
-substring$ -- 630
-swap$ -- 65
+substring$ -- 692
+swap$ -- 143
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
+type$ -- 208
 warning$ -- 0
-while$ -- 101
-width$ -- 33
-write$ -- 338
+while$ -- 132
+width$ -- 0
+write$ -- 399

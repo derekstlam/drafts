@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  8 NOV 2017 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.23)  26 NOV 2017 21:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -143,36 +143,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4] [5] [6] [7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 93.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 103.
+
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
  [8] [9]
+Overfull \hbox (1.51244pt too wide) in paragraph at lines 116--117
+\OT1/cmr/m/it/12 can-not \OT1/cmr/m/n/12 block the pes-simistic in-duc-tion by 
+say-ing that the be-liefs B$[]$, B$[]$, B$[]$,...don't
+ []
+
 [10] [11] [12]
-Overfull \hbox (12.96423pt too wide) in paragraph at lines 152--152
-[]\OT1/cmr/bx/n/17.28 8 Is the Pes-simistic In-duc-tion Ad-mis-si-ble Ev-i-denc
+Overfull \hbox (12.96423pt too wide) in paragraph at lines 148--148
+[]\OT1/cmr/bx/n/17.28 7 Is the Pes-simistic In-duc-tion Ad-mis-si-ble Ev-i-denc
 e? 
  []
 
 [13]
 Missing character: There is no ñ in font cmr10!
-
-Overfull \vbox (0.34439pt too high) has occurred while \output is active []
-
-
-[14] (./Pessimistic_Induction_about_Objective_Presentness.bbl [15] [16])
-[17] (./Pessimistic_Induction_about_Objective_Presentness.aux) ) 
+ [14] (./Pessimistic_Induction_about_Objective_Presentness.bbl [15])
+[16] (./Pessimistic_Induction_about_Objective_Presentness.aux) ) 
 Here is how much of TeX's memory you used:
- 975 strings out of 494437
- 13847 string characters out of 6166645
- 75027 words of memory out of 5000000
+ 976 strings out of 494437
+ 13839 string characters out of 6166645
+ 77669 words of memory out of 5000000
  4363 multiletter control sequences out of 15000+600000
- 11186 words of font info for 38 fonts, out of 8000000 for 9000
+ 10820 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 23i,8n,19p,1759b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,19p,1823b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/tex
 live/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local
 /texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/l
@@ -184,12 +186,13 @@ r7.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmti12.pfb>
-Output written on Pessimistic_Induction_about_Objective_Presentness.pdf (17 pag
-es, 185704 bytes).
+sfonts/cm/cmti12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti8.pfb>
+Output written on Pessimistic_Induction_about_Objective_Presentness.pdf (16 pag
+es, 193261 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
